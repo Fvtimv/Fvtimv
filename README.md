@@ -34,13 +34,17 @@ If you have any questions or would like to connect, please feel free to reach ou
   
 
 - 🌞 Building a foundation in HTML, CSS, and JavaScript.  
-  
-
-- 💞 Constantly learning and improving.  
 
 
 </td><td valign="top" width="50%">
 
+- 💞 Starting my journey in coding and development.  
+  
+
+- 🌕 Celebrating small wins and learning from failures.  
+  
+
+- 🍒 Constantly learning and improving.  
 
 
 </td></tr></table>  
@@ -89,4 +93,4 @@ If you have any questions or would like to connect, please feel free to reach ou
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> 
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
