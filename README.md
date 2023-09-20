@@ -15,13 +15,7 @@
 ### Glad to see you here!  
 I am a beginner front-end developer and aspiring UI designer. Although I am still learning and do not have much experience in the field, I am passionate about creating visually stunning and user-friendly websites and applications.
 
-On my GitHub, you will find a collection of my projects that demonstrate my current skills in HTML, CSS, and JavaScript. These projects are not perfect, but they showcase my enthusiasm for learning and my willingness to take on new challenges.
 
-As someone who is new to the field, I understand that there is still much for me to learn. However, I am committed to improving my skills and knowledge of front-end development and UI design. I am constantly studying design theory, taking online courses, and practicing my skills.
-
-If you are a more experienced developer or designer, I would greatly appreciate any feedback or guidance you can offer me. I am always looking for ways to improve and learn from others in the community.
-
-If you have any questions or would like to connect, please feel free to reach out to me. Thank you for taking the time to visit my GitHub!  
   
 
 <br/>  
